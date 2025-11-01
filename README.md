@@ -38,7 +38,7 @@ This project is a **simple blog** built using **Django** for the backend and **N
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/django-nextjs-blog.git
+    git clone https://github.com/Matthew3391/django-nextjs-blog.git
     ```
 
 2. Navigate to the `backend` directory:
@@ -96,7 +96,3 @@ This project is a **simple blog** built using **Django** for the backend and **N
 - Implement user authentication and profile management.
 - Add pagination for blog post listing.
 - Enhance styling and responsiveness for mobile devices.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
